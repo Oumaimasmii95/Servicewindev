@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+exemple		TAR	170	nouvelle taille enregistrement : 170
+exemple	id	NNR	Nom	ATTENTION : la rubrique Nom a pour nouveau nom id
+exemple	url	NNR	Adresse	ATTENTION : la rubrique Adresse a pour nouveau nom url
+exemple	width	RUB+		width est une nouvelle rubrique
